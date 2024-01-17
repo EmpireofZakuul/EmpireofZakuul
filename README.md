@@ -8,9 +8,16 @@ I hold a QQI Level 5 Award in Creative Media from Bray Institute of Further Educ
 
 Furthermore, I have completed my Bachelor of Arts (Hons) in Game Design from Technological University Dublin, from which I received a 2.1. My research-focused final year thesis explored the impact of verticality on gameplay in Tom Clancy's Rainbow Six Siege. Through the design, distribution, and analysis of a mixed-method questionnaire across platforms like Reddit and Discord, I uncovered valuable insights contributing to our understanding of verticality's role in level design.
 
-Building on this academic foundation, I pursued a Master of Science in Creative Digital Media and UX from September 2022 to December 2023. I am currently waiting for my results. This experience further enhanced my knowledge and skills in the dynamic and ever-evolving field of digital media. 
+Building on this academic foundation, I pursued a Master of Science in Creative Digital Media and UX from September 2022 to December 2023. I am currently awaiting my results. This immersive experience not only deepened my understanding of the dynamic and ever-evolving field of digital media but also provided me with practical opportunities to apply my knowledge.
+
+During this program, I embarked on a comprehensive project focusing on the fascinating realm of rockets and the evolution of rocket technology. I took a hands-on approach to this endeavour by creating a mobile app on the Android operating system, developed entirely from scratch using React Native.
+
+The process involved formulating the app idea, conducting thorough research in the relevant topic area, gathering user feedback, and developing both digital and paper prototypes. The app featured a rich array of functionalities, including a Rocket Timeline, Showcasing the rockets from the USA, Europe, India and Japan on a timeline based on the year that the rocket launched. Users could delve into Rocket Information, acquiring detailed knowledge about different types of rockets, their specifications, and launch capacity. Additionally, the app provided a Space News section, delivering up-to-date information on the space industry. Other features in the app included features such as details about Upcoming Rocket Launches and information on Rocket Launch Sites.
+
+Managing this multifaceted project required effective Project Management skills. I successfully navigated tight deadlines and managed the incorporation of various features. This involved careful planning, prioritization of tasks, and ensuring that each aspect of the app aligned with the project's overarching goals. The experience not only enhanced my technical abilities but also honed my skills in project coordination and deadline management, valuable assets in the fast-paced world of digital media and app development.
 
 I am excited about the intersection of creativity, technology, and user experience, and I am eager to contribute my diverse skill set to the exciting world of game design and digital media.
+
 * 🌍  I'm based in Ireland
 * 🖥️  See my portfolio at [My Portfolio](http://marcusgleeson.artstation.com/)
 * ✉️  You can contact me at [marcusjgleeson@gmail.com](mailto:marcusjgleeson@gmail.com)
